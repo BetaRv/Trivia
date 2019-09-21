@@ -1,2 +1,0 @@
-# Trivia
-Finall Svcollege project
